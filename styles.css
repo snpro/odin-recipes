@@ -15,8 +15,7 @@ h1 {
   color: #011a27;
   padding: 10px;
   border-radius: 10px;
-  border-color: #1ca9c5;
-  border: solid;
+  border: 1px solid #011a27;
   margin-left: 10%;
   margin-right: 10%;
 }
