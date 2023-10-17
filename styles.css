@@ -1,0 +1,35 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  background-color: #04426b;
+  color: white;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.container {
+  background-color: #cdeaf1;
+  color: #011a27;
+  padding: 10px;
+  border-radius: 10px;
+  border-color: #1ca9c5;
+  border: solid;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+img {
+  display: block;
+  height: auto;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.intro-text {
+  font-style: italic;
+  text-align: center;
+}
